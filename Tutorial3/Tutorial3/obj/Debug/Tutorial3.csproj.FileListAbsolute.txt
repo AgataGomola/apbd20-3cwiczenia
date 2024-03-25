@@ -1,0 +1,6 @@
+/Users/agata/Desktop/apbd3/apbd20-cw3/Tutorial3/Tutorial3/bin/Debug/Tutorial3.exe
+/Users/agata/Desktop/apbd3/apbd20-cw3/Tutorial3/Tutorial3/bin/Debug/Tutorial3.pdb
+/Users/agata/Desktop/apbd3/apbd20-cw3/Tutorial3/Tutorial3/obj/Debug/Tutorial3.csproj.AssemblyReference.cache
+/Users/agata/Desktop/apbd3/apbd20-cw3/Tutorial3/Tutorial3/obj/Debug/Tutorial3.csproj.CoreCompileInputs.cache
+/Users/agata/Desktop/apbd3/apbd20-cw3/Tutorial3/Tutorial3/obj/Debug/Tutorial3.exe
+/Users/agata/Desktop/apbd3/apbd20-cw3/Tutorial3/Tutorial3/obj/Debug/Tutorial3.pdb
